@@ -1,4 +1,4 @@
-Flatiron Movie Theater is open for business! I will be building out an
+Tokiti Movie Theater is open for business! I will be building out an
 application, Flatdango, that allows a user to purchase movie tickets from the
 theater
 

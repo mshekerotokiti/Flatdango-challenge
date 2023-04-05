@@ -68,7 +68,7 @@ function renderMovies(movie) {
     })
 }
 
-   //add a click event listener to the button to prevent default
+   //add a click event listener to the button to prevent default action
        button.addEventListener("click", (e) => {     
         e.preventDefault();   
 
